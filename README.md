@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali khan</h1>
-<h3 align="center">Mobile Application Developer | Flutter,React Native and Android Expert</h3>
+<h3 align="center">Mobile Application Developer | Expert in Flutter, React Native, and Android (Native)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhan1999&label=Profile%20views&color=0e75b6&style=flat" alt="alikhan1999" /> </p>
 
